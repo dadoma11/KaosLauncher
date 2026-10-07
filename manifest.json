@@ -8,6 +8,13 @@
     "web": "",
     "store": ""
   },
+  "discord": {
+    "appId": "1132986131819003978",
+    "largeImage": "logo"
+  },
+  "relays": {
+    "emotes": "https://ntfy.sh"
+  },
   "news": [
     {
       "title": "¡Bienvenido al launcher oficial de KaosMC!",
@@ -103,15 +110,15 @@
     }
   ],
   "client": {
-    "version": "1.0.1",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.1/kaosmc-client-1.0.1.jar",
-    "sha256": "9a9c99b6c1d11872dea19047cab7cc01c80aed66839f9a0c1cd6dc02fa6bae22"
+    "version": "1.0.2",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.2/kaosmc-client-1.0.2.jar",
+    "sha256": "c4abe89346ddc21623441720b597565521b02c85ee7d69cf85b1cdc168fe6429"
   },
   "launcher": {
-    "version": "1.0.1",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.1/KaosMC-Launcher-Setup-1.0.1.exe",
-    "sha256": "f4c2141c079d482f211593df4cb1c3fa2fb76246cc59df90a6562b7aab547957",
-    "notes": "Cambio de cuenta dentro del juego, actualizaciones automáticas y mejoras",
+    "version": "1.0.2",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.2/KaosMC-Launcher-Setup-1.0.2.exe",
+    "sha256": "e8120ae1227593d3ac7665d41a97da5cd841e41ca7919a911a4ea370721fd250",
+    "notes": "Actividad en Discord, bailes visibles entre jugadores de KaosMC, Fullbright, lista Tab más pequeña, autotexto, efectos, brújula y más opciones",
     "mandatory": false
   }
 }
