@@ -103,15 +103,15 @@
     }
   ],
   "client": {
-    "version": "1.0.0",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.0/kaosmc-client-1.0.0.jar",
+    "version": "1.0.1",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.1/kaosmc-client-1.0.1.jar",
     "sha256": "9a9c99b6c1d11872dea19047cab7cc01c80aed66839f9a0c1cd6dc02fa6bae22"
   },
   "launcher": {
-    "version": "1.0.0",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.0/KaosMC-Launcher-Setup-1.0.0.exe",
-    "sha256": "68e445f3571686505b11de7a570be7226c43b4f81fb2f9165bbaf84bdab8a799",
-    "notes": "Mejoras y correcciones",
+    "version": "1.0.1",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.1/KaosMC-Launcher-Setup-1.0.1.exe",
+    "sha256": "f4c2141c079d482f211593df4cb1c3fa2fb76246cc59df90a6562b7aab547957",
+    "notes": "Cambio de cuenta dentro del juego, actualizaciones automáticas y mejoras",
     "mandatory": false
   }
 }
