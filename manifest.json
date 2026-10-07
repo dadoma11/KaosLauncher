@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "published": "2026-10-07",
+  "mcVersion": "26.1.2",
+  "fabricLoader": "",
+  "links": {
+    "discord": "https://discord.gg/kaosmc",
+    "web": "",
+    "store": ""
+  },
+  "news": [
+    {
+      "title": "¡Bienvenido al launcher oficial de KaosMC!",
+      "body": "Pulsa JUGAR para entrar directamente en play.kaosmc.com.",
+      "date": "2026-10-07",
+      "url": ""
+    }
+  ],
+  "pack": [
+    {
+      "projectId": "P7dR8mSH",
+      "versionId": "3dM0X6ou",
+      "version": "0.155.3+26.1.2",
+      "slug": "fabric-api"
+    },
+    {
+      "projectId": "AANobbMI",
+      "versionId": "tZQ3jqnf",
+      "version": "mc26.1.2-0.9.2-fabric",
+      "slug": "sodium"
+    },
+    {
+      "projectId": "gvQqBUqZ",
+      "versionId": "Oqq8TOAV",
+      "version": "mc26.1.2-0.24.7-fabric",
+      "slug": "lithium"
+    },
+    {
+      "projectId": "uXXizFIs",
+      "versionId": "d5ddUdiB",
+      "version": "9.0.0-fabric",
+      "slug": "ferrite-core"
+    },
+    {
+      "projectId": "NNAgCjsB",
+      "versionId": "YDFyjf5b",
+      "version": "1.11.2",
+      "slug": "entityculling"
+    },
+    {
+      "projectId": "5ZwdcRci",
+      "versionId": "xOA9hbpf",
+      "version": "1.15.3+26.1-fabric",
+      "slug": "immediatelyfast"
+    },
+    {
+      "projectId": "51shyZVL",
+      "versionId": "PX8FzP3c",
+      "version": "1.7.3",
+      "slug": "moreculling"
+    },
+    {
+      "projectId": "LQ3K71Q1",
+      "versionId": "HV67Kt1R",
+      "version": "3.11.7",
+      "slug": "dynamic-fps"
+    },
+    {
+      "projectId": "mOgUt4GM",
+      "versionId": "ZJ6YTrMY",
+      "version": "18.0.2",
+      "slug": "modmenu"
+    },
+    {
+      "projectId": "cudtvDnd",
+      "versionId": "A1mL7Jnq",
+      "version": "9.0.8+26.1.2-fabric",
+      "slug": "in-game-account-switcher"
+    },
+    {
+      "projectId": "pZ2wrerK",
+      "versionId": "N3M6FTa2",
+      "version": "3.3.0-b.build.164",
+      "slug": "emotecraft"
+    },
+    {
+      "projectId": "9s6osm5g",
+      "versionId": "GFM8zh9J",
+      "version": "26.1.154+fabric",
+      "slug": "cloth-config"
+    },
+    {
+      "projectId": "eXts2L7r",
+      "versionId": "b3IPAHgB",
+      "version": "3.0.0+26.1",
+      "slug": "placeholder-api"
+    },
+    {
+      "projectId": "ha1mEyJS",
+      "versionId": "QmAdOGjK",
+      "version": "1.2.8",
+      "slug": "player-animation-library"
+    }
+  ],
+  "client": {
+    "version": "1.0.0",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.0/kaosmc-client-1.0.0.jar",
+    "sha256": "9a9c99b6c1d11872dea19047cab7cc01c80aed66839f9a0c1cd6dc02fa6bae22"
+  },
+  "launcher": {
+    "version": "1.0.0",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.0/KaosMC-Launcher-Setup-1.0.0.exe",
+    "sha256": "68e445f3571686505b11de7a570be7226c43b4f81fb2f9165bbaf84bdab8a799",
+    "notes": "Mejoras y correcciones",
+    "mandatory": false
+  }
+}
