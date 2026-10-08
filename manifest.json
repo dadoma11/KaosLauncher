@@ -111,15 +111,15 @@
     }
   ],
   "client": {
-    "version": "1.0.4",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.4/kaosmc-client-1.0.4.jar",
-    "sha256": "44b72a08c162c6fb8d04ef74d43cfab56ad01e2672f6dc93bfc785191056b082"
+    "version": "1.0.5",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.5/kaosmc-client-1.0.5.jar",
+    "sha256": "83f5652b5f2112043ea08ba42117479cf20561f234510cb45a28ee48b50d236d"
   },
   "launcher": {
-    "version": "1.0.4",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.4/KaosMC-Launcher-Setup-1.0.4.exe",
-    "sha256": "55b0d1d3ae7b70c884b75313948d98d2b0d0703548d51e92b9aa349d2723a766",
-    "notes": "Nuevo diseño del launcher: barra lateral, Inicio con portada, Instancias, Servidores y Mod Store renovados.\nAjustes en una ventana con buscador y control de memoria según tu PC.\nAmigos y mensajes entre jugadores premium, en el launcher y dentro del juego.\nMenú in-game renovado: perfiles, categorías, tarjetas de módulos y ajustes en el mismo panel.\nFuente del juego a elegir (Arial por defecto).\nVentana de actualización con instalación automática.\nCorrige la actividad de Discord.",
+    "version": "1.0.5",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.5/KaosMC-Launcher-Setup-1.0.5.exe",
+    "sha256": "12b8ef5a3e8dec954e3b7c612462fd5a50396f923a91edcb424638277b051c02",
+    "notes": "Mod Store: ahora también con CurseForge además de Modrinth (pestañas arriba a la derecha).\nNueva categoría PvP en el menú del juego (Shift derecho).\nMira personalizable: forma, color, tamaño, grosor y hueco.\nCombo, alcance del último golpe y recarga del ataque en pantalla.\nContador de flechas, perlas, manzanas doradas y tótems.\nObjetivo: nombre y vida de la entidad que miras o golpeas.\nSin tinte rojo al golpear entidades.\nVida exacta y saturación en pantalla.\nAviso cuando tu armadura o tu herramienta van a romperse.\nCronómetro con tecla configurable (Controles).\nCoordenadas de muerte: se guardan y se muestran hasta que vuelvas.\nConstrucción: contorno de bloque con color y grosor, info del bloque y bloques en mano.\nDistancia de cámara ajustable en tercera persona (F5).\nSin lluvia (solo en tu pantalla) y tu propio nombre visible en F5.\nChat: hora en cada mensaje, tu nombre resaltado con aviso y copiar mensajes con clic derecho.\nPerfiles predefinidos listos para usar: PvP, UHC, Construcción, Supervivencia y Rendimiento.\nCargar un perfil ya no cambia tu fuente ni tus ajustes generales.",
     "mandatory": false
   }
 }
