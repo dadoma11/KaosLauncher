@@ -51,8 +51,8 @@
     },
     {
       "projectId": "NNAgCjsB",
-      "versionId": "YDFyjf5b",
-      "version": "1.11.2",
+      "versionId": "VhQ51u7a",
+      "version": "1.11.3",
       "slug": "entityculling"
     },
     {
@@ -111,15 +111,15 @@
     }
   ],
   "client": {
-    "version": "1.0.8",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.8/kaosmc-client-1.0.8.jar",
-    "sha256": "ba5898f2a16537e2a79b766e35c8d2e8f8431c3626a1457612625ece46e6e894"
+    "version": "1.0.9",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.9/kaosmc-client-1.0.9.jar",
+    "sha256": "4b67f2c545d4d8ab6218298ba4c24ebd5abf0de19c0d4baead08de53353f6725"
   },
   "launcher": {
-    "version": "1.0.8",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.8/KaosMC-Launcher-Setup-1.0.8.exe",
-    "sha256": "d51f15efd46c858912686e4e3fd2689ee156360fff7ed89eca9f3758a6e2a628",
-    "notes": "Capas dentro del juego: nueva pantalla «Capas» (acceso en el menú de KaosMC, botón junto a MÓDULOS y módulo «Elegir capa»). Pruébatelas en 3D de espaldas y ponte la que quieras.\nTu capa KaosMC se ve también si tienes una capa oficial de Minecraft.\nEn el launcher, la pestaña Capa gira al personaje para que veas la capa por detrás.\nNueva capa Staff exclusiva: alta resolución y animada (brillo, destello, chispas y luz en el borde).\nOpción «Ver capas de otros» en la pantalla de capas.",
+    "version": "1.0.9",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.9/KaosMC-Launcher-Setup-1.0.9.exe",
+    "sha256": "551616782ae5df13d7341bee5112a94cd86275406c0cda0d373ca944bcd27a61",
+    "notes": "11 capas nuevas en alta resolución: Flora, Cosmic Dragon, Aquatic, Fire, Cristal, Galaxia, Viento, Cueva, Bosque, Forja y Fondo marino.\nCapas animadas: Fire (llamas que ondulan y chispas), Galaxia (estrellas que titilan y estrella fugaz) y Cosmic Dragon (brillo y destellos).\nNueva capa Beginners: exclusiva de las primeras 40 cuentas del launcher.\nCapa Staff en alta resolución con animación más suave.\nLa lista de capas ahora tiene 4 columnas, en el juego y en el launcher.",
     "mandatory": false
   }
 }
