@@ -111,15 +111,15 @@
     }
   ],
   "client": {
-    "version": "1.0.6",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.6/kaosmc-client-1.0.6.jar",
-    "sha256": "f99a025fc8421edee777d12e9e0cd322fd2442f0ccb00dd78c847feaa30cbf1e"
+    "version": "1.0.7",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.7/kaosmc-client-1.0.7.jar",
+    "sha256": "6d27fca919afdac7e10c76f6923b424c2d77e4e1d956e63f4bba623e7fa77ea5"
   },
   "launcher": {
-    "version": "1.0.6",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.6/KaosMC-Launcher-Setup-1.0.6.exe",
-    "sha256": "659f865c70a476e20fa551a7975b612f9480335f3b344014c13a092e2501f7dc",
-    "notes": "Amigos: si cambias tu nombre en minecraft.net se actualiza solo al abrir el launcher (ya puedes añadir a quien se cambió el nombre).\nCapturas con F2: botones en el chat para Copiar (pegar con Ctrl+V), Abrir y ver la Carpeta.\nNuevo módulo «Clip de la última muerte»: guarda los últimos segundos antes de morir en GIF, vídeo MP4 o captura.\nGalería de capturas y clips en cada instancia del launcher (Instancias → Capturas y clips): ver, copiar, mostrar en carpeta y borrar.\nClips en vídeo MP4: descarga FFmpeg desde Ajustes → Juego (opcional).\nContador de pociones de curación (lanzar / beber).\nAviso de golpe crítico junto a la mira.\nBajas, muertes y ratio de tu sesión.\nInformación en pantalla: día del mundo, nivel de luz, bioma, entidades cercanas y TPS del servidor.\nNotas fijas en pantalla y recordatorios cada cierto tiempo.\nAuto-GG al terminar una partida (mensaje configurable).\nSilenciar jugadores en el chat.\nLas plantillas PvP, UHC, Construcción… ya no desactivan tus módulos personales (capturas, chat, notas…).",
+    "version": "1.0.7",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.7/KaosMC-Launcher-Setup-1.0.7.exe",
+    "sha256": "a2f4ee44e87e899a4b1e47afe0406d9c10feffc4ebd316546dab91f795ebaf11",
+    "notes": "Diagnóstico de cierres: si el juego se cierra, el launcher te dice la causa (gráfica, memoria, mod, Java o archivos) y cómo arreglarlo, con «Copiar informe».\nModo seguro: abre la instancia sin tus mods para comprobar si alguno da problemas.\nCambia tu skin (Clásico o Fino) desde el launcher, con vista 3D e historial de las últimas skins.\nCapas KaosMC: elige entre 6 capas que verán los demás jugadores del launcher.\nAmigos: unirte al servidor de un amigo, invitarle, bloquear, aparecer desconectado y aviso cuando se conectan.\nNueva página Amigos en la barra lateral, con chat a pantalla completa.\nDentro del juego: acepta o rechaza solicitudes y únete o invita desde la pantalla de Amigos.\nPuntos de referencia: nueva pestaña PUNTOS, tecla N para añadir uno y marcadores en pantalla con distancia. Al morir se guarda el punto «Muerte».\nClips cuando quieras: pulsa F8 para guardar los últimos 10, 20 o 30 segundos (módulo «Clips»).\nPerfil por servidor: fija un perfil y se cargará solo al entrar en ese servidor.\nIgnorar jugadores arreglado (ahora funciona con los rangos y colores de los servidores). Nuevo comando /kaosmc ignorar <nombre>.\nPestañas de chat: nueva opción «Solo aquí» para ocultar esos mensajes del chat General.\nCargar una plantilla (PvP, UHC…) ya no borra tus pestañas de chat ni tu autotexto.\nDiscord reconoce el juego como Minecraft: ya puedes transmitir con Go Live y sus atajos.\nEstadística de jugadores que usan el launcher en Inicio.\nMás seguridad: el launcher solo accede a sus propias carpetas.",
     "mandatory": false
   }
 }
