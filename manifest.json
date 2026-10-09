@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "published": "2026-10-08",
+  "published": "2026-10-09",
   "mcVersion": "26.1.2",
   "fabricLoader": "",
   "links": {
@@ -111,15 +111,15 @@
     }
   ],
   "client": {
-    "version": "1.0.9",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.9/kaosmc-client-1.0.9.jar",
-    "sha256": "4b67f2c545d4d8ab6218298ba4c24ebd5abf0de19c0d4baead08de53353f6725"
+    "version": "1.0.10",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.10/kaosmc-client-1.0.10.jar",
+    "sha256": "17357b3495f2952c279381c5c928da3fe0d19da2b7016d71785a7fd05a59b02c"
   },
   "launcher": {
-    "version": "1.0.9",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.9/KaosMC-Launcher-Setup-1.0.9.exe",
-    "sha256": "551616782ae5df13d7341bee5112a94cd86275406c0cda0d373ca944bcd27a61",
-    "notes": "11 capas nuevas en alta resolución: Flora, Cosmic Dragon, Aquatic, Fire, Cristal, Galaxia, Viento, Cueva, Bosque, Forja y Fondo marino.\nCapas animadas: Fire (llamas que ondulan y chispas), Galaxia (estrellas que titilan y estrella fugaz) y Cosmic Dragon (brillo y destellos).\nNueva capa Beginners: exclusiva de las primeras 40 cuentas del launcher.\nCapa Staff en alta resolución con animación más suave.\nLa lista de capas ahora tiene 4 columnas, en el juego y en el launcher.",
+    "version": "1.0.10",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.10/KaosMC-Launcher-Setup-1.0.10.exe",
+    "sha256": "950779e8f1c5634eb48f3fe057eeea6d9864d92701b3f8392bd5e81bc1048368",
+    "notes": "Mascotas: elige una (Murciélago, Ballena del End, Paus, Noir o Cangrejo marinero) y se posará en tu hombro, animada y haciendo trucos de vez en cuando.\nElige en qué hombro va (derecho o izquierdo), en el juego y en el launcher. La ven los jugadores del launcher de KaosMC.\nTu capa y tu mascota aparecen en todas las vistas de tu personaje: Inicio y Personalizar en el launcher, y el inventario y los menús en el juego.\nNueva pantalla «Capas y mascotas» dentro del juego.\nNuevo fondo del menú principal, de la pantalla de carga y de las imágenes del launcher.\nInfo del bloque: ahora muestra el icono del bloque al que miras.\nSaturación sobre los muslitos (contorno dorado) y vista previa de la comida y la vida que recuperas con lo que tienes en la mano.\nEfectos y contador de pociones con iconos.",
     "mandatory": false
   }
 }
