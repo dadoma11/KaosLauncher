@@ -111,15 +111,15 @@
     }
   ],
   "client": {
-    "version": "1.0.11",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.11/kaosmc-client-1.0.11.jar",
-    "sha256": "7a591bb8cfae77d287778a4a2f3374e66e633fcb15bfffcccc624583921404e4"
+    "version": "1.0.12",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.12/kaosmc-client-1.0.12.jar",
+    "sha256": "0c5075f4e6cb371e9f66577d6a0ce4547e7bd5b10721bdf7f320b4f7c1bb7081"
   },
   "launcher": {
-    "version": "1.0.11",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.11/KaosMC-Launcher-Setup-1.0.11.exe",
-    "sha256": "996371a32ca9d35fc2c12ac5736937fda8fbfc33c762e9e384f97e4f9ac899c1",
-    "notes": "Mascotas más fluidas dentro del juego: ya no van a tirones con lag del servidor.\nNueva capa animada exclusiva «Laboratorio» y nueva mascota exclusiva «Pipeta», que aprieta su perilla y suelta gotas.\nTodas las capas y mascotas salen en la lista: las exclusivas que no tienes aparecen con candado (puedes probártelas, pero no ponértelas).\nLa vista previa de la mascota en el hombro derecho ya no queda tapada por la cabeza.",
+    "version": "1.0.12",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.12/KaosMC-Launcher-Setup-1.0.12.exe",
+    "sha256": "975f0af5bc7f2f1e65394bb44ba0457a32f52352abdb54dce6eefd4d8ed4b7f1",
+    "notes": "Bandanas: cintas deportivas a juego con cada capa (las de capas animadas también se animan). Nueva pestaña «Bandana» en Personalizar y «BANDANAS» en el juego.\nCosméticos para cuentas no premium: capas, bandanas y mascotas también sin cuenta de Microsoft (los amigos siguen siendo solo premium).\nNueva mascota «Mini tú»: un mini tú con tu propia skin, sentado en tu hombro, que de vez en cuando se levanta y hace una reverencia.\nNueva mascota exclusiva «Dragón de fuego»: vuela a tu lado, sale volando hacia delante escupiendo fuego rojo con partículas de llamas y humo, y tiene sonidos (se pueden quitar en la pestaña de mascotas).\nLas exclusivas se pueden dar también a jugadores no premium desde el panel de admin.",
     "mandatory": false
   }
 }
