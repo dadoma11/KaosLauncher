@@ -111,15 +111,15 @@
     }
   ],
   "client": {
-    "version": "1.0.13",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.13/kaosmc-client-1.0.13.jar",
-    "sha256": "f17d9f2fa4e600e6301fa691ac46d83b2b823f9e99917b839f7a867efee71d0e"
+    "version": "1.0.14",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.14/kaosmc-client-1.0.14.jar",
+    "sha256": "3dfc97b11360fccbf6e2759f30a8867649d1268d0f7094d63acbe9645c90c7e8"
   },
   "launcher": {
-    "version": "1.0.13",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.13/KaosMC-Launcher-Setup-1.0.13.exe",
-    "sha256": "e3ee34327ddf75cc6375299b087ddfb8817212bb1a604e06395a6f91b6d00842",
-    "notes": "Nuevo logo de KaosMC en el launcher, el instalador, el juego y la capa Staff.\nNuevo diseño del menú de pausa (Esc) y del menú de Shift derecho, con el logo nuevo y botones con marco.\nLos élitros con capa KaosMC ahora tienen forma de élitro (antes salían rectángulos).\nTus cosméticos ya no se quitan al cambiar de servidor.\nSi tu operador bloquea Cloudflare (días de LaLiga), el launcher busca otra ruta y vuelven a cargar amigos, capas y mascotas, también dentro del juego.\nSi los servidores de Fabric no responden, el juego se abre con la versión ya instalada.",
+    "version": "1.0.14",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.14/KaosMC-Launcher-Setup-1.0.14.exe",
+    "sha256": "1747ef35da0794ab30a74da848ccf40ce950f2c99c5775149d2307c305913c28",
+    "notes": "Nueva mascota exclusiva del staff «Emblema Kaos»: el logo de KaosMC en 3D y en alta resolución, con un anillo de cristales que orbitan.\nAnimaciones propias: se mece mientras la K late, estalla en pedazos y se vuelve a montar, y da volteretas.\nLa tienen automáticamente los que tienen la capa Staff.",
     "mandatory": false
   }
 }
