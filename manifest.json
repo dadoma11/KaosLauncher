@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "published": "2026-10-11",
+  "published": "2026-10-12",
   "mcVersion": "26.1.2",
   "fabricLoader": "",
   "links": {
@@ -111,15 +111,15 @@
     }
   ],
   "client": {
-    "version": "1.0.19",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.19/kaosmc-client-1.0.19.jar",
-    "sha256": "caed274d0247fc40d6d2b7b421e492c38020b801287e0fab5395fc56a15bdf23"
+    "version": "1.0.20",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.20/kaosmc-client-1.0.20.jar",
+    "sha256": "9f40d094b25aa8e37542611f71df4184bd4e15d5d818ce52c45500647f0c3b84"
   },
   "launcher": {
-    "version": "1.0.19",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.19/KaosMC-Launcher-Setup-1.0.19.exe",
-    "sha256": "ceb682f598a862afc425cc8c8cfcdeef0e385ae780b533e131884212ec223828",
-    "notes": "Pasodoble renovado: cadera adelante y atrás, paso-paso, junta y separa, cambio de peso y giro, en agarre de pareja con «El Gato Montés».\nChat persistente: ya no se borra al cambiar de servidor (solo al cerrar el juego), guarda hasta 3000 mensajes y una línea separa cada servidor.",
+    "version": "1.0.20",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.20/KaosMC-Launcher-Setup-1.0.20.exe",
+    "sha256": "ea2d708cbaa8888b2b0ee4af69e279a371975f3858b190ceb8c566f9c374ff07",
+    "notes": "Nuevo conjunto exclusivo «Fantasma»: capa (también en los élitros), bandana a juego y mascota fantasmita bajo una tela que flota, sacude la tela y se asoma. Se conceden juntas desde el panel de cuentas.",
     "mandatory": false
   }
 }
