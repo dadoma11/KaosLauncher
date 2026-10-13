@@ -111,15 +111,15 @@
     }
   ],
   "client": {
-    "version": "1.0.23",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.23/kaosmc-client-1.0.23.jar",
-    "sha256": "cf8e43a8e06aee8a8ad85d3ce6659a88a496577febb5076b5f6479c1f49ebe80"
+    "version": "1.0.24",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.24/kaosmc-client-1.0.24.jar",
+    "sha256": "ffa76a701def345961678fac554be588170843d66aac8041ea87656f1fc60758"
   },
   "launcher": {
-    "version": "1.0.23",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.23/KaosMC-Launcher-Setup-1.0.23.exe",
-    "sha256": "9825fefdbf4ace5dbe8e53a1d301355d2df4e486adb752e75d4e19f5adaec775",
-    "notes": "Nueva mascota exclusiva «Rata de laboratorio», a juego con la capa Laboratorio: remueve su matraz, hace experimentos y se marea de un trago.\nLos cosméticos se pueden ver ahora en la web con vista previa 3D: web.kaosmc.com/cosmeticos",
+    "version": "1.0.24",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.24/KaosMC-Launcher-Setup-1.0.24.exe",
+    "sha256": "a0668093cc8d521019a0e9255eb6e3c5407b94822371162c7e1426f705a6498a",
+    "notes": "Logo de KaosMC delante del nombre (sobre la cabeza y en el Tab) de todos los que juegan con el launcher. Se puede desactivar en el módulo «Logo de KaosMC en los nombres».\nMod Store: al instalar un mod se instalan solas sus dependencias (Fabric API, librerías…).\nArreglado: en el Mod Store la versión salía preseleccionada pero no dejaba instalar; ahora empieza en «Elegir versión».",
     "mandatory": false
   }
 }
