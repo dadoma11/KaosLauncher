@@ -111,15 +111,15 @@
     }
   ],
   "client": {
-    "version": "1.0.26",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.26/kaosmc-client-1.0.26.jar",
-    "sha256": "32ddcd7a2bb977a3dbcac4f9628790718034adcf3efb2596ef260fac28e37c7a"
+    "version": "1.0.27",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.27/kaosmc-client-1.0.27.jar",
+    "sha256": "5bc59459076d42826b90df93b2d73f00d6751ce0777f6243c410f5d798eb4790"
   },
   "launcher": {
-    "version": "1.0.26",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.26/KaosMC-Launcher-Setup-1.0.26.exe",
-    "sha256": "7354f7a256dcfbd4510061bfbb3e841d698c269d025312cd7dcd050360710445",
-    "notes": "Arreglado: al publicar una versión, el launcher podía quedarse con la información antigua y lanzar el juego con el mod anterior (los bailes nuevos no sonaban ni se sincronizaban). Ahora siempre comprueba la última versión antes de jugar.\nTwerk rehecho: de cara, piernas flexionadas, manos a las rodillas y rebote de cadera.",
+    "version": "1.0.27",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.27/KaosMC-Launcher-Setup-1.0.27.exe",
+    "sha256": "bd901493f9543cb0b76956a340bb6ac60d4b04307c92ec8a3c5d8af185251ada",
+    "notes": "Capa Fantasma rediseñada: el estandarte con la cara ocupa toda la capa y los flecos rasgados van sobre marrón (élitros y bandana a juego).\nMascota Fantasma mejorada: la cara nueva de la capa y tela con puntadas y remiendos.",
     "mandatory": false
   }
 }
