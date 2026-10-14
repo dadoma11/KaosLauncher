@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "published": "2026-10-13",
+  "published": "2026-10-14",
   "mcVersion": "26.1.2",
   "fabricLoader": "",
   "links": {
@@ -111,15 +111,15 @@
     }
   ],
   "client": {
-    "version": "1.0.24",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.24/kaosmc-client-1.0.24.jar",
-    "sha256": "ffa76a701def345961678fac554be588170843d66aac8041ea87656f1fc60758"
+    "version": "1.0.25",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.25/kaosmc-client-1.0.25.jar",
+    "sha256": "c2c0a27a682e5b466407e8b302087b7856d38a6c5365cbce85f858783eafc52f"
   },
   "launcher": {
-    "version": "1.0.24",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.24/KaosMC-Launcher-Setup-1.0.24.exe",
-    "sha256": "a0668093cc8d521019a0e9255eb6e3c5407b94822371162c7e1426f705a6498a",
-    "notes": "Logo de KaosMC delante del nombre (sobre la cabeza y en el Tab) de todos los que juegan con el launcher. Se puede desactivar en el módulo «Logo de KaosMC en los nombres».\nMod Store: al instalar un mod se instalan solas sus dependencias (Fabric API, librerías…).\nArreglado: en el Mod Store la versión salía preseleccionada pero no dejaba instalar; ahora empieza en «Elegir versión».",
+    "version": "1.0.25",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.25/KaosMC-Launcher-Setup-1.0.25.exe",
+    "sha256": "25d724a987bd21bb0f0e8866bdefc75c82beee13d618240d1a0a6d58ce4e2197",
+    "notes": "13 bailes nuevos con canciones largas y conocidas de Kevin MacLeod: Mono loco, Paso sigiloso, Baile del pato, Música de ascensor, Paseo feliz, Detective, Travieso, Funky, Swing, Electro, Macarena, Hustle y Twerk.\nBailar al compás: quien baila lo mismo cerca de otros (radio ajustable, 16 bloques por defecto) hace los mismos pasos a la vez.\nLos que bailan lo mismo comparten una sola canción, y como mucho suenan 3 a la vez: se acabó el ruido con mucha gente bailando.\nNuevo diseño de la capa Fantasma (con sus élitros y bandana a juego).",
     "mandatory": false
   }
 }
