@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "published": "2026-10-15",
+  "published": "2026-10-20",
   "mcVersion": "26.1.2",
   "fabricLoader": "0.19.5",
   "links": {
@@ -92,6 +92,12 @@
       "slug": "emotecraft"
     },
     {
+      "projectId": "2M01OLQq",
+      "versionId": "l7gept3U",
+      "version": "5.4.0+26.1.1-fabric",
+      "slug": "shulkerboxtooltip"
+    },
+    {
       "projectId": "9s6osm5g",
       "versionId": "GFM8zh9J",
       "version": "26.1.154+fabric",
@@ -111,15 +117,15 @@
     }
   ],
   "client": {
-    "version": "1.0.30",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.30/kaosmc-client-1.0.30.jar",
-    "sha256": "f971f8bf5f5584ca866dc00081c951681000debf5bb1e8a1edb82efb1e87c2f9"
+    "version": "1.1.1",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.1/kaosmc-client-1.1.1.jar",
+    "sha256": "544036ecdb7f8a35ccf8a3f15a9de7afb43379e94040b51c89b7ff7a3a0fd7b7"
   },
   "launcher": {
-    "version": "1.0.30",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.0.30/KaosMC-Launcher-Setup-1.0.30.exe",
-    "sha256": "1d031b174497a3a4749a8377a1c8701663f61b2cc8359adce474687af37d6109",
-    "notes": "Nueva instancia oficial KaosMC Extended para PCs potentes: mods visuales (animaciones, capas 3D, partículas…), packs de texturas y shaders ya activados. La de siempre pasa a llamarse KaosMC Lite.\nEl launcher revisa la carpeta de mods antes de jugar y desactiva solo los archivos duplicados o que rompen Fabric.\nArreglado: el juego guardaba sus registros y ajustes fuera de la instancia.\nEl diagnóstico de cierres explica mejor la causa (memoria de Windows, driver de la gráfica, archivos de más) y el informe ya no se corta.\nMás estable: si algo falla, el launcher se recupera solo en vez de quedarse en blanco.",
+    "version": "1.1.1",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.1/KaosMC-Launcher-Setup-1.1.1.exe",
+    "sha256": "67ee9a6fe043cabb14f7d90225f12b62306d3431e413895e11efe4fb9838e4c6",
+    "notes": "Arreglado: al crear una instancia con una versión de Minecraft distinta de la oficial (por ejemplo 1.21.8) el juego no arrancaba porque se instalaba el mod KaosMC Client. Ahora solo se instala en las versiones compatibles y se retira de las instancias afectadas.\nAntes de jugar se desactivan los mods hechos para otra versión de Minecraft (no se borran).\nLas instancias de otra versión con Extended o PVP usan mods compatibles con esa versión.\nNuevo en todas las versiones oficiales (Lite, Extended y PVP): vista previa del contenido de las shulkers al pasar el ratón por encima (ShulkerBoxTooltip).",
     "mandatory": false
   }
 }
