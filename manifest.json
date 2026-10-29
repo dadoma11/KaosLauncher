@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "published": "2026-10-25",
+  "published": "2026-10-26",
   "mcVersion": "26.1.2",
   "fabricLoader": "0.19.5",
   "links": {
@@ -93,8 +93,8 @@
     },
     {
       "projectId": "2M01OLQq",
-      "versionId": "l7gept3U",
-      "version": "5.4.0+26.1.1-fabric",
+      "versionId": "cCQDtoFu",
+      "version": "5.4.3+26.1.1-fabric",
       "slug": "shulkerboxtooltip"
     },
     {
@@ -117,15 +117,15 @@
     }
   ],
   "client": {
-    "version": "1.1.5",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.5/kaosmc-client-1.1.5.jar",
-    "sha256": "efaabb5959bc287e8a0c1a2aeb1552ce3ab9f2c8259e99e8d1ddf8e867499327"
+    "version": "1.1.6",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.6/kaosmc-client-1.1.6.jar",
+    "sha256": "d96d2bfcfa6474338cfa0ce04d44305f5bf9caf1301c8002869d3dc2f70ecfc6"
   },
   "launcher": {
-    "version": "1.1.5",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.5/KaosMC-Launcher-Setup-1.1.5.exe",
-    "sha256": "cdc2fec8b194d4c200343f041fa63d3f924e7a6dc5397c056d5a59ba03deb242",
-    "notes": "Nuevo: puedes llevar CAPA y ALAS a la vez (Personalizar → Alas → «Llevar también la capa»).\nEl logo de KaosMC en el nombre y tus cosméticos ahora se ven en cualquier servidor (también no premium y con proxys).\n16 módulos nuevos al estilo Lunar: Fly Speed (singleplayer/creativo), color de golpe, hitboxes, multiplicador de partículas, color del brillo de encantamientos, posición de la mano, motion blur, cambiar la hora, FOV fijo, desenfoque de menús, ajustes de nametags, bordes de chunk, ocultar nick, pack activo en el HUD, límite de FPS sin foco y distancia de entidades.\nFullbright / GammaUtils ya no están bloqueados.\nEl juego usa siempre la última versión del mod KaosMC Client.",
+    "version": "1.1.6",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.6/KaosMC-Launcher-Setup-1.1.6.exe",
+    "sha256": "25c8e1467760c19853715108fba6e3987414aeea95776c0f8ed0dd7d795b7c0b",
+    "notes": "Nuevo diseño de todo el cliente al estilo web: menú principal, Shift derecho, módulos, cosméticos y el resto de pantallas, con esquinas suaves, desenfoque, animaciones y la fuente Inter.\nMenú de módulos más fácil: Inicio con presets de un clic, recomendados, favoritos (★) y recientes; categorías en la barra lateral, búsqueda inteligente y avisos con «Deshacer».\nAjustes agrupados, interruptores animados, sliders con valor, botón para restablecer y vista previa en vivo de los HUD.\nCosméticos con buscador y filtros (Todas / Disponibles / Exclusivas).\nSe adapta al tamaño de la ventana; la interfaz arranca a tamaño x2.\nArreglado: letras que salían como bloques morados y negros en algunos servidores.\nCapa y alas a la vez, logo de KaosMC en cualquier servidor y 16 módulos nuevos al estilo Lunar.",
     "mandatory": false
   }
 }
