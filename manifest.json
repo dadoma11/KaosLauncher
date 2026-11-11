@@ -117,15 +117,15 @@
     }
   ],
   "client": {
-    "version": "1.1.7",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.7/kaosmc-client-1.1.7.jar",
-    "sha256": "58235664c18b4b17c18236f29865c29fe997e00f9bb1137d4512c8e2c6c715bd"
+    "version": "1.1.8",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.8/kaosmc-client-1.1.8.jar",
+    "sha256": "e43b2dd5aaac091821b380ba1fe8d241c0ba0a6f7256ce0570c28a0d05bf51e2"
   },
   "launcher": {
-    "version": "1.1.7",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.7/KaosMC-Launcher-Setup-1.1.7.exe",
-    "sha256": "b9d63de8f5cdd0ad667b67cf2e10685df015e2baf36e4560e44e258bb6fd4dc4",
-    "notes": "¡Actualización de Navidad! Kit Navidad con 5 mascotas nuevas (Reno, Papá Noel, Grinch, Muñeco de nieve y Elfo), capa, alas y bandana de Navidad y 3 bufandas. Se consigue entrando al launcher del 15 de noviembre al 3 de enero y es tuyo para siempre.\nDurante el evento el launcher y los menús del juego se visten de Navidad: portada nevada, nieve, renos y el trineo de Papá Noel (se puede quitar en Ajustes → Apariencia y en el juego con «Diseño de temporada»).\nCosméticos organizados por subcategorías (Normales, Exclusivas y eventos) en todas las pestañas, en el launcher y en el juego.\nLas animaciones del launcher se pausan con la ventana minimizada o en segundo plano para ahorrar recursos.",
+    "version": "1.1.8",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.8/KaosMC-Launcher-Setup-1.1.8.exe",
+    "sha256": "54c5098f75c03b2bf85c5bafe8b5a6335bee4e4790e9b04d07c7f4c2c105abe9",
+    "notes": "Nueva portada de Navidad en el launcher y pantalla de carga navideña en el juego.\n¡Actualización de Navidad! Kit Navidad con 5 mascotas nuevas (Reno, Papá Noel, Grinch, Muñeco de nieve y Elfo), capa, alas y bandana de Navidad y 3 bufandas. Se consigue entrando al launcher del 15 de noviembre al 3 de enero y es tuyo para siempre.\nDurante el evento el launcher y los menús del juego se visten de Navidad: portada nevada, nieve, renos y el trineo de Papá Noel (se puede quitar en Ajustes → Apariencia y en el juego con «Diseño de temporada»).\nCosméticos organizados por subcategorías (Normales, Exclusivas y eventos) en todas las pestañas, en el launcher y en el juego.\nLas animaciones del launcher se pausan con la ventana minimizada o en segundo plano para ahorrar recursos.",
     "mandatory": false
   }
 }
