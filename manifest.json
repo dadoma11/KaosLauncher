@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "published": "2026-10-26",
+  "published": "2026-11-11",
   "mcVersion": "26.1.2",
   "fabricLoader": "0.19.5",
   "links": {
@@ -63,8 +63,8 @@
     },
     {
       "projectId": "51shyZVL",
-      "versionId": "PX8FzP3c",
-      "version": "1.7.3",
+      "versionId": "hS47fcKO",
+      "version": "1.7.4",
       "slug": "moreculling"
     },
     {
@@ -87,8 +87,8 @@
     },
     {
       "projectId": "pZ2wrerK",
-      "versionId": "N3M6FTa2",
-      "version": "3.3.0-b.build.164",
+      "versionId": "7xQ43ksm",
+      "version": "3.3.0-b.build.177",
       "slug": "emotecraft"
     },
     {
@@ -111,21 +111,21 @@
     },
     {
       "projectId": "ha1mEyJS",
-      "versionId": "QmAdOGjK",
-      "version": "1.2.8",
+      "versionId": "xzViDgSE",
+      "version": "1.2.9",
       "slug": "player-animation-library"
     }
   ],
   "client": {
-    "version": "1.1.6",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.6/kaosmc-client-1.1.6.jar",
-    "sha256": "d96d2bfcfa6474338cfa0ce04d44305f5bf9caf1301c8002869d3dc2f70ecfc6"
+    "version": "1.1.7",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.7/kaosmc-client-1.1.7.jar",
+    "sha256": "58235664c18b4b17c18236f29865c29fe997e00f9bb1137d4512c8e2c6c715bd"
   },
   "launcher": {
-    "version": "1.1.6",
-    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.6/KaosMC-Launcher-Setup-1.1.6.exe",
-    "sha256": "25c8e1467760c19853715108fba6e3987414aeea95776c0f8ed0dd7d795b7c0b",
-    "notes": "Nuevo diseño de todo el cliente al estilo web: menú principal, Shift derecho, módulos, cosméticos y el resto de pantallas, con esquinas suaves, desenfoque, animaciones y la fuente Inter.\nMenú de módulos más fácil: Inicio con presets de un clic, recomendados, favoritos (★) y recientes; categorías en la barra lateral, búsqueda inteligente y avisos con «Deshacer».\nAjustes agrupados, interruptores animados, sliders con valor, botón para restablecer y vista previa en vivo de los HUD.\nCosméticos con buscador y filtros (Todas / Disponibles / Exclusivas).\nSe adapta al tamaño de la ventana; la interfaz arranca a tamaño x2.\nArreglado: letras que salían como bloques morados y negros en algunos servidores.\nCapa y alas a la vez, logo de KaosMC en cualquier servidor y 16 módulos nuevos al estilo Lunar.",
+    "version": "1.1.7",
+    "url": "https://github.com/dadoma11/KaosLauncher/releases/download/v1.1.7/KaosMC-Launcher-Setup-1.1.7.exe",
+    "sha256": "b9d63de8f5cdd0ad667b67cf2e10685df015e2baf36e4560e44e258bb6fd4dc4",
+    "notes": "¡Actualización de Navidad! Kit Navidad con 5 mascotas nuevas (Reno, Papá Noel, Grinch, Muñeco de nieve y Elfo), capa, alas y bandana de Navidad y 3 bufandas. Se consigue entrando al launcher del 15 de noviembre al 3 de enero y es tuyo para siempre.\nDurante el evento el launcher y los menús del juego se visten de Navidad: portada nevada, nieve, renos y el trineo de Papá Noel (se puede quitar en Ajustes → Apariencia y en el juego con «Diseño de temporada»).\nCosméticos organizados por subcategorías (Normales, Exclusivas y eventos) en todas las pestañas, en el launcher y en el juego.\nLas animaciones del launcher se pausan con la ventana minimizada o en segundo plano para ahorrar recursos.",
     "mandatory": false
   }
 }
